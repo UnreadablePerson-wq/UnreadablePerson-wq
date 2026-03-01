@@ -58,8 +58,12 @@
 
 ### 📊 Статистика GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=UnreadablePerson-wq&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnreadablePerson-wq&layout=compact)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UnreadablePerson-wq&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnreadablePerson-wq&layout=compact&langs_count=8&theme=default"/>
+</div>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=UnreadablePerson-wq&theme=default)
 
 ---
 
