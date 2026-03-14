@@ -63,7 +63,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnreadablePerson-wq&layout=compact&langs_count=8&theme=default"/>
 </div>
 
+<div align="center">
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=UnreadablePerson-wq&theme=default)
+</div>
 
 ---
 
