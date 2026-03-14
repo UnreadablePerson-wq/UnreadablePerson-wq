@@ -64,7 +64,7 @@
 </div>
 
 <div align="center">
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=UnreadablePerson-wq&theme=default)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnreadablePerson-wq&theme=default"/>
 </div>
 
 ---
